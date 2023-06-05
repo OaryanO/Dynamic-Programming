@@ -1,6 +1,6 @@
 # Dynamic-Programming
 
-well said by "STRIVER"
+well said by "Mr. DP"
 
 "Those who cannot remember the past are condemned to repeat it"
 
