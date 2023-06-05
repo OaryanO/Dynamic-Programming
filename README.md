@@ -18,7 +18,7 @@ i would be trying my best to keep my consistency whatever the situation will be 
                      \               /
                       ---------------
                              |
-                      -------|-------
+                     \-------|-------/
                              |
                              |
                             / \
